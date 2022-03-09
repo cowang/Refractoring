@@ -1,0 +1,1 @@
+I added 4 methods to make the program more readable. This change transforms the main method from big sections of code to smaller sections of statements and method calls. I also like to have plenty of empty lines between sections of code to further increase readability.The name of every method added is concise and explains what the method does. 
